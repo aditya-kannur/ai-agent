@@ -1,0 +1,43 @@
+Here's a 3-day study schedule for JavaScript:
+
+**Day 1:**
+
+1. **Morning (9:00 AM - 10:30 AM)**: Review the basics of JavaScript
+	* Go through the official MDN Web Docs JavaScript tutorial (https://developer.mozilla.org/en-US/docs/Learn/JavaScript) and review the following topics:
+		+ Variables
+		+ Data types
+		+ Operators
+		+ Control structures (if/else, for loops)
+	* Take notes on any areas you're unsure about or want to revisit later
+2. **Afternoon (2:00 PM - 4:00 PM)**: Practice coding with online exercises
+	* Head over to CodePen (https://codepen.io/) or FreeCodeCamp (https://www.freecodecamp.org/) and complete some beginner-level exercises
+	* Focus on writing clean, readable code and experimenting with different syntax
+3. **Evening (6:00 PM - 7:30 PM)**: Watch a tutorial or video on a specific topic
+	* Choose a topic you're interested in, such as DOM manipulation or events, and watch a video tutorial on YouTube or a similar platform
+	* Take notes on key concepts and think about how you can apply them to your own projects
+
+**Day 2:**
+
+1. **Morning (9:00 AM - 11:00 AM)**: Learn about JavaScript objects and arrays
+	* Go through the MDN Web Docs documentation on objects (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects) and arrays (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Arrays)
+	* Practice creating and manipulating objects and arrays in your code
+2. **Afternoon (2:00 PM - 4:00 PM)**: Build a small project
+	* Choose a simple project idea, such as a to-do list app or a weather display, and start building it
+	* Use the concepts you've learned so far to create a functional prototype
+3. **Evening (6:00 PM - 7:30 PM)**: Review and practice debugging
+	* Go through your code from the previous day's project and try to debug any issues you find
+	* Use the console log to inspect variables and identify errors
+
+**Day 3:**
+
+1. **Morning (9:00 AM - 11:00 AM)**: Learn about functions and higher-order functions
+	* Go through the MDN Web Docs documentation on functions (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Functions)
+	* Practice creating and using functions in your code
+2. **Afternoon (2:00 PM - 4:00 PM)**: Build a more complex project
+	* Choose a project idea that incorporates the concepts you've learned so far, such as a game or a chatbot
+	* Use the functions and higher-order functions you learned about to create a more complex and interactive project
+3. **Evening (6:00 PM - 7:30 PM)**: Review and reflect on your progress
+	* Go through your notes and code from the past two days and reflect on what you've learned
+	* Think about what you want to learn next and how you can apply your new skills to real-world projects
+
+Remember to take breaks, stay hydrated, and have fun learning!
