@@ -1,0 +1,21 @@
+Groq API Documentation
+
+1. Overview:
+Groq offers ultra-low latency inference using LPU technology.
+
+2. Authentication:
+API Key is required in the header as 'Authorization: Bearer <your_key>'.
+
+3. Models:
+- Mixtral-8x7B
+- Llama2-70B
+- Gemma-7B
+
+4. Rate Limits:
+Standard plan allows 1000 requests per minute.
+
+5. Endpoint:
+POST https://api.groq.com/openai/v1/chat/completions
+
+6. Pricing:
+Pricing varies based on tokens. Refer to official docs.

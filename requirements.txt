@@ -2,3 +2,18 @@ fastapi
 uvicorn
 python-dotenv
 requests
+
+# LangChain and extensions
+langchain
+langchain-community
+langchain-groq
+
+# Vector store and embeddings
+faiss-cpu
+sentence-transformers
+
+# PDF/Text processing
+pymupdf
+
+# Groq SDK
+groq
